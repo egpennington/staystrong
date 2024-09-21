@@ -67,6 +67,11 @@ button:hover {
     transform: scale(1.05);
 }
 
+.small {
+  font-size: 0.7rem;
+  display: block;
+}
+
 p {
     font-size: 1.2em;
     color: #333;
