@@ -8,7 +8,7 @@ export const activities = [
     "Do 15 jumping jacks 🏋️", "Watch a motivational video 📺", "Read a positive quote 📜", "Plan a future trip ✈️",
     "Fold a paper airplane ✈️", "Take a shower 🚿", "Play with a pet 🐶", "Write down things you're grateful for 🙏",
     "Learn to juggle 🎨", "Do a breathing exercise 🌬️", "Make a to-do list 📝", "Read an interesting article 📰",
-    "Practice a new language phrase 🗣️", "Solve a Sudoku puzzle 🧠", "Visualize your goals 🎯", "Write a haiku ✍️",
+    "Practice a new language phrase 🗣️", "Solve a Sudoku puzzle 🧠", "Visualize your goals 🎯", "Write a haiku ✍️: a short poem with three lines, following a 5-7-5 syllable pattern",
     "Take a nap 😴", "Do a random act of kindness 💖", "Watch a nature documentary 🌿", "Plan your week 📅",
     "Do a quick clean-up of your room 🧹", "Write a short story 📖", "Try a new recipe 🍲", "Do a mindfulness exercise 🧘",
     "Watch a TED talk 🎤", "Make a vision board 🖼️", "Do a quick stretch 🧘", "Listen to a podcast 🎧",
